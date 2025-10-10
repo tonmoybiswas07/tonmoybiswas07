@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tonmoybiswas945" target="blank"><img src="https://img.shields.io/twitter/follow/tonmoybiswas945?logo=twitter&style=for-the-badge" alt="tonmoybiswas945" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,Programming hero course..**
+- 🌱 I’m currently learning **React From Programming hero course..**
 
 - 📫 How to reach me **tonmoybiswas13900@gmail.com**
 
