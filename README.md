@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co.com/wFQrhDQs/Bleu-Moderne-De-veloppeur-Web-Bannie-re-Linked-In.png" alt="banner img"/>
+
 <h1 align="center">Hi 👋, I'm Tonmoy Biswas</h1>
 <h4 align="center">I’m a MERN Stack Developer from Bangladesh who enjoys building modern, user-friendly web applications. I specialize in JavaScript, with hands-on experience in React, Next.js, Tailwind CSS, Firebase, and Vite. I focus on creating clean, responsive, and high-performance interfaces while solving real-world problems through code. I’m always eager to learn new technologies and share meaningful projects and practical coding insights with the community.</h4>
 
