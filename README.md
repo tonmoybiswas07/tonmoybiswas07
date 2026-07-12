@@ -134,7 +134,7 @@
 > Enable a GitHub Actions workflow to generate this file automatically.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tonmoybiswas07/tonmoybiswas07/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/tonmoybiswas07/tonmoybiswas07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
