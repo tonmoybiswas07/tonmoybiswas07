@@ -133,9 +133,13 @@
 
 > Enable a GitHub Actions workflow to generate this file automatically.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tonmoybiswas07/tonmoybiswas07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonmoybiswas07/tonmoybiswas07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonmoybiswas07/tonmoybiswas07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tonmoybiswas07/tonmoybiswas07/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
