@@ -3,8 +3,7 @@
 # 👋 Hi, I'm **Tonmoy Biswas**
 
 ### 🚀 MERN Stack Developer • Frontend Engineer • UI Enthusiast
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=Tonmoy%20Biswas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:334155&text=Tonmoy%20Biswas&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies;Clean+Code+%F0%9F%9A%80"/>
 
