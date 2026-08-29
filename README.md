@@ -47,6 +47,9 @@
 ---
 
 ## 🛠️ Tech Stack
+💻 Programming Languages
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,html,css,js,ts&perline=9"/> </p>
 
 ### 💻 Frontend
 
